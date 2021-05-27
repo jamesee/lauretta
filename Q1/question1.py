@@ -58,7 +58,7 @@ def myCV(file):
 	myCoordinate.append(os.path.join(args["path"], file))
 	return myCoordinate
 
-# reference : 
+# Reference : 
 # https://note.nkmk.me/en/python-opencv-hconcat-vconcat-np-tile/
 def concat_tile(im_list_2d):
 	return cv2.vconcat([cv2.hconcat(im_list_h) for im_list_h in im_list_2d])
