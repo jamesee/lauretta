@@ -1,2 +1,2 @@
-# lauretta
-Lauretta Take Home Tests
+# Lauretta.io
+Lauretta.io's Take Home Tests
