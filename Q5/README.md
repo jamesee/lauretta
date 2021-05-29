@@ -4,13 +4,13 @@ I followed closely the program structure of "Creating Simple Login API using Go 
 
 To test the code, 
 
-`
+```
 $ cd Q5
 $ docker-compose up -d
 
 $ cd test
 $ bash test-all.sh
-`
+```
 
 Reference :
 
